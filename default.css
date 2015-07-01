@@ -338,7 +338,12 @@ ul.contact li a.icon-rss:before
 
 .button:hover
 {
-	background: #86bd3b;
+	background: #5B5A5A;
+}
+
+.button2:hover
+{
+	background: #719E32;
 }
 
 .button:active
